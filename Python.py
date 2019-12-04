@@ -1,4 +1,4 @@
-prin("Hello World")
+print("Hello World")
 from random import randrange
 x = (randrange(10))
 if x >= 5:
